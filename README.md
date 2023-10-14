@@ -1,3 +1,3 @@
 # azure pipeline spring boot demo
-> CI: Azure pipeline + Buildpack
-> CD: Helm + AKS
+1.  CI: Azure pipeline + Buildpack
+2.  CD: Helm + AKS
